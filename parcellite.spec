@@ -1,11 +1,11 @@
 Summary:	Lightweight GTK+ clipboard manager
 Name:		parcellite
-Version:	1.1.6
+Version:	1.1.9
 Release:	1
 License:	GPL v3
 Group:		X11/Applications
 Source0:	http://downloads.sourceforge.net/parcellite/%{name}-%{version}.tar.gz
-# Source0-md5:	4b0a89aeb885a2f7d2ace3e4ea7e153e
+# Source0-md5:	6c3b70165c2dee9341a81a2a8481e446
 URL:		http://parcellite.sourceforge.net/
 BuildRequires:	gtk+-devel
 BuildRequires:	intltool
